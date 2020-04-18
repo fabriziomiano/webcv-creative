@@ -5,4 +5,4 @@ Essentially taken from [this template](https://startbootstrap.com/template-overv
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/fabriziomiano/fabriziomiano.github.io/master/resume.png)](https://raw.githubusercontent.com/fabriziomiano/fabriziomiano.github.io/master/resume.png)
+[![Resume Preview](https://raw.githubusercontent.com/fabriziomiano/webcv-creative/master/resume.png)](https://raw.githubusercontent.com/fabriziomiano/webcv-creative/master/resume.png)
